@@ -23,7 +23,7 @@ El bot reconoce el comando /start , luego se mostrara un menu de botones donde t
 * TOP 5 canciones:
   * Introducciendo a un autor podras ver sus top 5 canciones mas populares , una curiosidad sobre la mas escuchada y la opcion si el usuario quiere de ver la letra de la cancion.
 
-# Conexión con APIs
+## Conexión con APIs
   * Este bot utiliza las APIs de OpenWeatherMap y openai para proporcionar informacion meteorológica en tiempo real y respuestas inteligentes a tus pedidos respectivamente. Asegúrate de obtener tu propia clave API de OpenWeatherMap
 y openai y remplazarlas `API_KEY_WEATHER` y `OPENAI_API_KEY` en `main.py` con tus claves.
 
