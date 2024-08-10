@@ -6,8 +6,8 @@ Este repositorio contiene el codigo para crear un bot de telegram con las funcio
 ##  Configuración
   * Clona este repositorio.
   * Instala las dependencias usando `pip install -r requirements.txt`.
-  * Crea un bot en telegram a travez de BotFather y obten tu token.
-  * Remplaza el token en `main.py` con tu token.
+  * Crea un bot en Telegram a través de BotFather y obtén tu token.
+  * Remplaza `TOKEN_TELEBOT` con tu token en `main.py`.
   * Ejecuta el bot usando `python main.py`.
 
 ## Funcionalidades
