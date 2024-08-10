@@ -1,0 +1,5 @@
+pyTelegramBotAPI
+sqlite3
+requests
+openai
+pandas
