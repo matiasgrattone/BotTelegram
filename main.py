@@ -5,7 +5,6 @@ import requests
 from openai import OpenAI
 import openai
 import pandas as pd
-from groq import Groq
 
 
 
