@@ -3,7 +3,7 @@
 Este repositorio contiene el codigo para crear un bot de telegram con las funcionalidades de clima , contar , hablar con el bot , Analisis de sentimientos y TOP 5 canciones de un cantante
 
 
-##  Configuracion
+##  Configuración
   * Clona este repositorio.
   * Instala las dependencias usando `pip install -r requirements.txt`.
   * Crea un bot en telegram a travez de BotFather y obten tu token.
